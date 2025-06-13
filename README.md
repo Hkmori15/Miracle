@@ -27,13 +27,13 @@ A minimal 3D game engine written in C. 🌸
 ## Technology Stack
 
 - **Language**: C
-- **Windowing**: GLFW(https://github.com/glfw/glfw)
+- **Windowing**: [GLFW](https://github.com/glfw/glfw)
 - **OpenGL Loading**: GLEXT
-- **Math Library**: cglm(https://github.com/recp/cglm)
-- **Image Loading**: stb_image(https://github.com/nothings/stb)
-- **Model Loading**: Assimp(https://github.com/assimp/assimp)
-- **Physics**: Bullet Physics(https://github.com/bulletphysics/bullet3)
-- **Audio**: OpenAL(https://github.com/kcat/openal-soft)
+- **Math Library**: [cglm](https://github.com/recp/cglm)
+- **Image Loading**: [stb_image](https://github.com/nothings/stb)
+- **Model Loading**: [Assimp](https://github.com/assimp/assimp)
+- **Physics**: [Bullet Physics](https://github.com/bulletphysics/bullet3)
+- **Audio**: [OpenAL](https://github.com/kcat/openal-soft)
 
 ## Building
 
